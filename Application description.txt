@@ -1,0 +1,7 @@
+Develop a window application using Facebook API, Data Binding and Multithreading .
+
+The app gives the user the following options:
+- Get a list of his friends + option to filter by gender.
+- Post status.
+- Get a list of all his posts, checkins, events and liked pages.
+- Get his album list + option to save selected album on PC + option to get the the picture with the most likes in the selected album.
